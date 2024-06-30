@@ -110,7 +110,7 @@ Languages & Tools I Use:
    <hr>
 
       
-[![@LiQuiD_404's Holopin board](https://holopin.io/api/user/board?user=organicbeetle)](https://holopin.io/@organicbeetle)
+[![@organicbeetle's Holopin board](https://holopin.me/organicbeetle)](https://holopin.io/@organicbeetle)
 
    
 
