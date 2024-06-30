@@ -119,5 +119,5 @@ Languages & Tools I Use:
 **Watch my Contribution Graph get eaten by this snake 	:snake:**
 <p align="center">
   
-![snake gif](https://github.com/OrganicBeetle/OrganicBeetle/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/OrganicBeetle/snk/blob/output/github-contribution-grid-snake.gif)
 </p>
