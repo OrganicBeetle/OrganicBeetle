@@ -33,7 +33,6 @@
   <img src="https://media4.giphy.com/media/12PXNbcHW8C9Bm/giphy.gif" width="40px" height= "40px"/> <b><i>In pursuit of Greatness </i></b> <img src="https://media2.giphy.com/media/25OC7fR4bg6lvxGrjI/giphy.gif?cid=790b7611a77b90ac6de5cc2519279dbf4a72b7a20beca90a&rid=giphy.gif&ct=s" width="40px" height= "40px" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OrganicBeetle &label=Profile%20views&color=blueviolet&style=flat" alt="shagun" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.baamboozle.com/uploads/images/43331/1614762563_77278_gif-url.gif" width="900px" height= "300px />
 
 <img src="https://c.tenor.com/3HrcAdrKXigAAAAM/cute-kawaii.gif" width="40px" height= "40px">&nbsp;***Talking about Personal Stuffs...***
