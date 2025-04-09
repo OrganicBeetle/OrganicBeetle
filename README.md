@@ -40,8 +40,8 @@
 <img src="https://c.tenor.com/3HrcAdrKXigAAAAM/cute-kawaii.gif" width="40px" height= "40px">&nbsp;***Talking about Personal Stuffs...***
 
 
-◍ I’m currently a Training and Placement Volunteer at IIT BHU<br>
-◍ I’m currently learning **JS**<br>
+◍ I’m currently a Training and Placement Representative at IIT BHU<br>
+◍ I’m currently learning **DSA**<br>
 ◍ I’m looking to collaborate with any **Open - Source contribution**<br>
 ◍ I’m looking for help for learning **APIs**<br>
 ◍ Other than programming and building projects I love to play **Cricket** and **Football**<br>
